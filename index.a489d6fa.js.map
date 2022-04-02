@@ -1,0 +1,1 @@
+{"mappings":"AACI","sources":["javascript/main.js"],"sourcesContent":["//Parcel Config\nif (module.hot) {\n\tmodule.hot.accept();\n}\n///////////////////\n"],"names":[],"version":3,"file":"index.a489d6fa.js.map"}
